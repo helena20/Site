@@ -1,0 +1,36 @@
+body {
+background-color: lightblue;
+}
+
+p.serif {
+  font-family: "Georgia", Times, serif;
+}
+
+body {
+  color: hotpink;
+}
+
+
+h2{
+  margin left: 100px;
+}
+
+h1 {
+  margin right: 100px;
+}
+
+a:visited {
+  color: violet
+}
+
+img {
+  width: 500;
+}
+
+img {
+  height: 500;
+}
+
+img {
+  border: 8px solid slateblue
+}
