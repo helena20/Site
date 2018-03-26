@@ -1,0 +1,11 @@
+body {
+background-color: lightblue;
+}
+
+p.serif {
+  font-family: "Georgia", Times, serif;
+}
+
+body {
+  color: white;
+}
