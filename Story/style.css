@@ -2,8 +2,9 @@ body {
 background-color: lightblue;
 }
 
-p.serif {
-  font-family: "Georgia", Times, serif;
+h1{
+  font-family: Georgia;
+  font-size: 30px;
 }
 
 body {
